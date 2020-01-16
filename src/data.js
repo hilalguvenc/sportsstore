@@ -1,4 +1,6 @@
-module.exports = function() {
+
+
+module.exports = function() { //Node.js object
   return {
     categories: ["Watersports", "Soccer", "Chess"],
     products: [
